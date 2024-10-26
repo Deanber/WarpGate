@@ -8,14 +8,32 @@ public class UIControl : MonoBehaviour
     public GameObject[] uis;
     void Start()
     {
-        instan(uis);
+        instan();
         uis[0].SetActive(true);
     }
-    void instan(GameObject[] childs)
+    void Update()
+    {
+        esc();
+    }
+    void instan()
     {
         foreach (GameObject child in uis)
         {
             child.SetActive(false);
+        }
+    }
+    void esc()
+    {
+        if (uis[0].activeInHierarchy == false)
+        {
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                foreach (GameObject child in uis)
+                {
+                    child.SetActive(false);
+                }
+                uis[0].SetActive(true);
+            }
         }
     }
 }

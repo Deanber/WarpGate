@@ -1,0 +1,483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_vm
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: tag_origin
+    m_Weight: 1
+  - m_Path: tag_origin/tag_camera_scripted
+    m_Weight: 1
+  - m_Path: tag_origin/tag_camera_scripted/tag_camera_scripted_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_ik_foot_loc_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_ik_foot_loc_le/tag_ik_foot_loc_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_ik_foot_loc_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_ik_foot_loc_ri/tag_ik_foot_loc_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_sync
+    m_Weight: 1
+  - m_Path: tag_origin/tag_sync/tag_sync_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_crotch
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_crotch/j_crotch_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_groinprotector
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_groinprotector/j_groinprotector_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_hip_proc_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_hip_proc_le/j_hip_proc_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_hiptwist_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_hiptwist_le/j_hiptwist_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le/j_ankle_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le/j_ball_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le/j_kneedq_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_le/j_knee_le/j_kneedq_le/j_kneedq_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_hip_proc_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_hip_proc_ri/j_hip_proc_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_hiptwist_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_hiptwist_ri/tag_stowed_thigh
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_hiptwist_ri/tag_stowed_thigh/tag_stowed_thigh_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri/j_ball_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri/j_kneedq_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_hip_ri/j_knee_ri/j_kneedq_ri/j_kneedq_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_proc_spinelower
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_proc_spinelower/j_proc_spinelower_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupper_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_chest
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_chest/j_chest_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_elbowdq_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_elbowdq_le/j_elbowdq_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le/j_shield_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3/j_index_le_4
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3/j_index_le_4/j_index_le_4_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_indexbulge_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_indexbulge_le_1/j_indexbulge_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_proc_index_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_proc_index_le_1/j_proc_index_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3/j_mid_le_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_proc_mid_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_proc_mid_le_1/j_proc_mid_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3/j_pinky_le_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_proc_pinky_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_proc_pinky_le_1/j_proc_pinky_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_webbing_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_webbing_le_3/j_webbing_le_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_proc_ring_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_proc_ring_le_1/j_proc_ring_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3/j_ring_le_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaindex_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaindex_le_1/j_proc_metaindex_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaindex_le_1/j_proc_metaindex_le_2/j_proc_metaindex_le_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_idle_knuckle_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_idle_knuckle_le_1/j_proc_idle_knuckle_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_knuckle_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_knuckle_le_1/j_proc_knuckle_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_orient_knuckle_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metaknuckle_le_1/j_proc_orient_knuckle_le_1/j_proc_orient_knuckle_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metapinky_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metapinky_le_1/j_proc_metapinky_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_metapinky_le_1/j_proc_metapinky_le_2/j_proc_metapinky_le_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le/j_proc_wristup_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3/j_thumb_le_4
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3/j_thumb_le_4/j_thumb_le_4_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_webbing_le_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_webbing_le_2/j_webbing_le_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_webbing_le_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_webbing_le_1/j_webbing_le_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left/tag_accessory_left_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_weapon_left
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_weapon_left/tag_weapon_left_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/j_proc_wristfronttwist1_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/j_proc_wristfronttwist1_le/tag_wrist_attach_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/j_proc_wristfronttwist1_le/tag_wrist_attach_le/tag_wrist_attach_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/j_shouldertwist_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_teres_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_teres_le/j_teres_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_elbowdq_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_elbowdq_ri/j_elbowdq_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_shield_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_shield_ri/j_shield_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_gun
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_gun/j_gun_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3/j_index_ri_4
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3/j_index_ri_4/j_index_ri_4_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_indexbulge_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_indexbulge_ri_1/j_indexbulge_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_proc_index_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_proc_index_ri_1/j_proc_index_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3/j_mid_ri_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_proc_mid_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_proc_mid_ri_1/j_proc_mid_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3/j_pinky_ri_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_proc_pinky_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_proc_pinky_ri_1/j_proc_pinky_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_webbing_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_webbing_ri_3/j_webbing_ri_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_proc_ring_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_proc_ring_ri_1/j_proc_ring_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3/j_ring_ri_3_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaindex_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaindex_ri_1/j_proc_metaindex_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaindex_ri_1/j_proc_metaindex_ri_2/j_proc_metaindex_ri_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_idle_knuckle_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_idle_knuckle_ri_1/j_proc_idle_knuckle_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_knuckle_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_knuckle_ri_1/j_proc_knuckle_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_orient_knuckle_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metaknuckle_ri_1/j_proc_orient_knuckle_ri_1/j_proc_orient_knuckle_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metapinky_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metapinky_ri_1/j_proc_metapinky_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_metapinky_ri_1/j_proc_metapinky_ri_2/j_proc_metapinky_ri_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri/j_proc_wristup_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3/j_thumb_ri_4
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3/j_thumb_ri_4/j_thumb_ri_4_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_webbing_ri_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_webbing_ri_2/j_webbing_ri_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_webbing_ri_1
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_webbing_ri_1/j_webbing_ri_1_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right/tag_accessory_right_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_knife_attach2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_knife_attach2/tag_knife_attach2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/tag_weapon_right_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri/j_wristfronttwist1_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/j_shouldertwist_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_teres_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_teres_ri/j_teres_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_le
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_le/j_eyeball_le_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_ri
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_ri/j_eyeball_ri_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet/j_visor
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet/j_visor/j_visor_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet/j_visor_inner
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet/j_visor_inner/j_visor_inner_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw/j_jaw_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_nvg
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_nvg/j_nvg_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_carry_attach
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_carry_attach/tag_carry_attach_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_sling_attach_body
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_sling_attach_body/tag_sling_attach_body_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_sling_attach_body_2
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_sling_attach_body_2/tag_sling_attach_body_2_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/tag_weapon
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_ads/tag_torso/tag_weapon/tag_weapon_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone/tag_camera
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone/tag_camera/tag_player
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone/tag_camera/tag_player/tag_player_end
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone/tag_camera/tag_playerhelmet
+    m_Weight: 1
+  - m_Path: tag_origin/tag_view/tag_cambone/tag_camera/tag_playerhelmet/tag_playerhelmet_end
+    m_Weight: 1

@@ -11,1115 +11,1009 @@ AvatarMask:
   m_Elements:
   - m_Path: 
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro
+  - m_Path: body
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin
+  - m_Path: body/tag_origin
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_antislide_ik
+  - m_Path: body/tag_origin/j_antislide_ik
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_antislide_ik/j_antislide_ik_end
+  - m_Path: body/tag_origin/j_antislide_ik/j_antislide_ik_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_ik_foot_root
+  - m_Path: body/tag_origin/j_ik_foot_root
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_ik_foot_root/tag_ik_foot_loc_le
+  - m_Path: body/tag_origin/j_ik_foot_root/tag_ik_foot_loc_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_ik_foot_root/tag_ik_foot_loc_le/tag_ik_foot_loc_le_end
+  - m_Path: body/tag_origin/j_ik_foot_root/tag_ik_foot_loc_le/tag_ik_foot_loc_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_ik_foot_root/tag_ik_foot_loc_ri
+  - m_Path: body/tag_origin/j_ik_foot_root/tag_ik_foot_loc_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_ik_foot_root/tag_ik_foot_loc_ri/tag_ik_foot_loc_ri_end
+  - m_Path: body/tag_origin/j_ik_foot_root/tag_ik_foot_loc_ri/tag_ik_foot_loc_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot
+  - m_Path: body/tag_origin/j_mainroot
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_dummy_knee_dist
+  - m_Path: body/tag_origin/j_mainroot/j_dummy_knee_dist
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_dummy_knee_dist/j_dummy_knee_dist_end
+  - m_Path: body/tag_origin/j_mainroot/j_dummy_knee_dist/j_dummy_knee_dist_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_groinprotector
+  - m_Path: body/tag_origin/j_mainroot/j_groinprotector
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_groinprotector/j_groinprotector_end
+  - m_Path: body/tag_origin/j_mainroot/j_groinprotector/j_groinprotector_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_hip_proc_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_hip_proc_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_hip_proc_le/j_hip_proc_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_hip_proc_le/j_hip_proc_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le/j_hipholster_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le/j_hipholster_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le/j_hipholster_le/j_hipholster_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_hiptwist_le/j_hipholster_le/j_hipholster_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428/bone_8c384cd6
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428/bone_8c384cd6
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428/bone_8c384cd6/bone_8c384cd6_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/bone_97dd2428/bone_8c384cd6/bone_8c384cd6_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le/j_ball_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le/j_ball_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hip_proc_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hip_proc_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hip_proc_ri/j_hip_proc_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hip_proc_ri/j_hip_proc_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri/tag_stowed_thigh
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri/tag_stowed_thigh
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri/tag_stowed_thigh/tag_stowed_thigh_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_hiptwist_ri/j_hipholster_ri/tag_stowed_thigh/tag_stowed_thigh_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e/bone_6c472500
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e/bone_6c472500
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e/bone_6c472500/bone_6c472500_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/bone_6fe2f55e/bone_6c472500/bone_6c472500_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri/j_ball_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri/j_ball_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_le
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_le/j_proc_hip_lift_aim_le
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_le/j_proc_hip_lift_aim_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_le/j_proc_hip_lift_aim_le/j_proc_hip_lift_aim_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_le/j_proc_hip_lift_aim_le/j_proc_hip_lift_aim_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_ri
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_ri/j_proc_hip_lift_aim_ri
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_ri/j_proc_hip_lift_aim_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_proc_hip_lift_ri/j_proc_hip_lift_aim_ri/j_proc_hip_lift_aim_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_proc_hip_lift_ri/j_proc_hip_lift_aim_ri/j_proc_hip_lift_aim_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/bone_cef480b5
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/bone_cef480b5
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/bone_cef480b5/bone_cef480b5_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/bone_cef480b5/bone_cef480b5_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2/j_proc_spinelower3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2/j_proc_spinelower3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2/j_proc_spinelower3/j_proc_spinelower3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower2/j_proc_spinelower3/j_proc_spinelower3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a/bone_74d00a7
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a/bone_74d00a7
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a/bone_74d00a7/bone_74d00a7_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_44cfbee/bone_34cfa5b/bone_24cf8c8/bone_94d03cd/bone_84d023a/bone_74d00a7/bone_74d00a7_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6/bone_7e038bd8
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6/bone_7e038bd8
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6/bone_7e038bd8/bone_7e038bd8_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/bone_960aecb6/bone_7e038bd8/bone_7e038bd8_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/j_proc_spinelower_swivel_lift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/j_proc_spinelower_swivel_lift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/j_proc_spinelower_swivel_lift/j_proc_spinelower_swivel_lift_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spinelower_lift/j_proc_spinelower/j_proc_spinelower_lift/j_proc_spinelower_swivel/j_proc_spinelower_swivel_lift/j_proc_spinelower_swivel_lift_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_dummy_rot_aim_02
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_dummy_rot_aim_02
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_dummy_rot_aim_02/j_dummy_rot_aim_02_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_dummy_rot_aim_02/j_dummy_rot_aim_02_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_dummy_spinelift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_dummy_spinelift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_dummy_spinelift/j_proc_dummy_spinelift_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_dummy_spinelift/j_proc_dummy_spinelift_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest/tag_stowed_chest
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest/tag_stowed_chest
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest/tag_stowed_chest/tag_stowed_chest_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_proc_spineupper/j_proc_spineupperlift/j_proc_stowed_chest/tag_stowed_chest/tag_stowed_chest_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_3ad5e126
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_3ad5e126
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_3ad5e126/bone_3ad5e126_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_3ad5e126/bone_3ad5e126_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_896150ea
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_896150ea
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_896150ea/bone_896150ea_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_896150ea/bone_896150ea_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_bc243c91
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_bc243c91
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_bc243c91/bone_bc243c91_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_bc243c91/bone_bc243c91_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_e53935dd
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_e53935dd
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_e53935dd/bone_e53935dd_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/bone_e53935dd/bone_e53935dd_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le/tag_weapon_left
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le/tag_weapon_left
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le/tag_weapon_left/tag_weapon_left_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_gun_adjust_le/tag_weapon_left/tag_weapon_left_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le/j_shield_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_shield_le/j_shield_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3/j_index_le_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaindex_le_1/j_index_le_1/j_index_le_2/j_index_le_3/j_index_le_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3/j_mid_le_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metamid_le_1/j_mid_le_1/j_mid_le_2/j_mid_le_3/j_mid_le_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3/j_pinky_le_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metapinky_le_1/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3/j_pinky_le_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3/j_ring_le_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_metaring_le_1/j_ring_le_1/j_ring_le_2/j_ring_le_3/j_ring_le_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wrist_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wrist_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wrist_le/j_proc_wrist_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wrist_le/j_proc_wrist_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le/j_proc_wristup_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_proc_wristup_le/j_proc_wristup_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3/j_thumb_le_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3/j_thumb_le_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left/tag_accessory_left_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_accessory_left/tag_accessory_left_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/tag_wrist_attach_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/tag_wrist_attach_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/tag_wrist_attach_le/tag_wrist_attach_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristfronttwist1_le/tag_wrist_attach_le/tag_wrist_attach_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_proc_shoulder_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_proc_shoulder_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_proc_shoulder_le/j_proc_shoulder_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_proc_shoulder_le/j_proc_shoulder_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/tag_reflector_arm_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/tag_reflector_arm_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/tag_reflector_arm_le/tag_reflector_arm_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/tag_reflector_arm_le/tag_reflector_arm_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/j_gun
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/j_gun
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/j_gun/j_gun_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/j_gun/j_gun_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/tag_weapon_right
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/tag_weapon_right
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/tag_weapon_right/tag_weapon_right_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_gun_adjust/tag_weapon_right/tag_weapon_right_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3/j_index_ri_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaindex_ri_1/j_index_ri_1/j_index_ri_2/j_index_ri_3/j_index_ri_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3/j_mid_ri_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metamid_ri_1/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3/j_mid_ri_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3/j_pinky_ri_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metapinky_ri_1/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3/j_pinky_ri_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3/j_ring_ri_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_metaring_ri_1/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3/j_ring_ri_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wrist_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wrist_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wrist_ri/j_proc_wrist_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wrist_ri/j_proc_wrist_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri/j_proc_wristup_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_proc_wristup_ri/j_proc_wristup_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3/j_thumb_ri_3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3/j_thumb_ri_3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right/tag_accessory_right_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_accessory_right/tag_accessory_right_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri/j_wristfronttwist1_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristfronttwist1_ri/j_wristfronttwist1_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_proc_shoulder_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_proc_shoulder_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_proc_shoulder_ri/j_proc_shoulder_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_proc_shoulder_ri/j_proc_shoulder_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/tag_reflector_arm_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/tag_reflector_arm_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/tag_reflector_arm_ri/tag_reflector_arm_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/tag_reflector_arm_ri/tag_reflector_arm_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor/j_visor_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor/j_visor_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor_inner
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor_inner
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor_inner/j_visor_inner_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/j_visor_inner/j_visor_inner_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight/tag_helmetlight_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight/tag_helmetlight_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/tag_eye
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/tag_eye
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/tag_eye/tag_eye_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/tag_eye/tag_eye_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le/j_proc_target_clavicle_le
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le/j_proc_target_clavicle_le
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le/j_proc_target_clavicle_le/j_proc_target_clavicle_le_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_le/j_proc_rot_clavicle_le/j_proc_target_clavicle_le/j_proc_target_clavicle_le_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri/j_proc_target_clavicle_ri
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri/j_proc_target_clavicle_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri/j_proc_target_clavicle_ri/j_proc_target_clavicle_ri_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_lift_clavicle_ri/j_proc_rot_clavicle_ri/j_proc_target_clavicle_ri/j_proc_target_clavicle_ri_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/j_chest
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/j_chest
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/j_chest/j_chest_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/j_chest/j_chest_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_carry_attach
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_carry_attach
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_carry_attach/tag_carry_attach_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_carry_attach/tag_carry_attach_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back/tag_stowed_back_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back/tag_stowed_back_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back2/tag_stowed_back2_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back2/tag_stowed_back2_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back3
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back3
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back3/tag_stowed_back3_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_back3/tag_stowed_back3_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_backpack_hide
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_backpack_hide
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_backpack_hide/tag_stowed_backpack_hide_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_proc_spinelift/j_proc_spine4/tag_stowed_backpack_hide/tag_stowed_backpack_hide_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_left_character
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_left_character
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_left_character/tag_ik_target_left_character_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_left_character/tag_ik_target_left_character_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_right_character
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_right_character
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_right_character/tag_ik_target_right_character_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_ik_target_right_character/tag_ik_target_right_character_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_inhand
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_inhand
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_inhand/tag_inhand_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_inhand/tag_inhand_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_shield_back
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_shield_back
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_shield_back/tag_shield_back_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_shield_back/tag_shield_back_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_stowed_chest2
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_stowed_chest2
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_stowed_chest2/tag_stowed_chest2_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_stowed_chest2/tag_stowed_chest2_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_weapon_chest
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_weapon_chest
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_weapon_chest/tag_weapon_chest_end
+  - m_Path: body/tag_origin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_weapon_chest/tag_weapon_chest_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/tag_stowed_hip_rear
+  - m_Path: body/tag_origin/j_mainroot/tag_stowed_hip_rear
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/j_mainroot/tag_stowed_hip_rear/tag_stowed_hip_rear_end
+  - m_Path: body/tag_origin/j_mainroot/tag_stowed_hip_rear/tag_stowed_hip_rear_end
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/tag_sync
+  - m_Path: body/tag_origin/tag_sync
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/tag_sync/j_shield_ri
+  - m_Path: body/tag_origin/tag_sync/j_shield_ri
     m_Weight: 1
-  - m_Path: body_c_jup_mp_alejandro/tag_origin/tag_sync/j_shield_ri/j_shield_ri_end
+  - m_Path: body/tag_origin/tag_sync/j_shield_ri/j_shield_ri_end
     m_Weight: 1
-  - m_Path: CastMesh
+  - m_Path: head
     m_Weight: 0
-  - m_Path: CastMesh.001
+  - m_Path: head/j_spine4
     m_Weight: 0
-  - m_Path: CastMesh.002
+  - m_Path: head/j_spine4/j_clavicle_le
     m_Weight: 0
-  - m_Path: CastMesh.003
+  - m_Path: head/j_spine4/j_clavicle_le/j_clavicle_le_end
     m_Weight: 0
-  - m_Path: CastMesh.004
+  - m_Path: head/j_spine4/j_clavicle_ri
     m_Weight: 0
-  - m_Path: CastMesh.005
+  - m_Path: head/j_spine4/j_clavicle_ri/j_clavicle_ri_end
     m_Weight: 0
-  - m_Path: CastMesh.006
+  - m_Path: head/j_spine4/j_neck
     m_Weight: 0
-  - m_Path: CastMesh.007
+  - m_Path: head/j_spine4/j_neck/j_head
     m_Weight: 0
-  - m_Path: CastMesh.008
+  - m_Path: head/j_spine4/j_neck/j_head/bone_8f025b39
     m_Weight: 0
-  - m_Path: CastMesh.009
+  - m_Path: head/j_spine4/j_neck/j_head/bone_8f025b39/bone_8f025b39_end
     m_Weight: 0
-  - m_Path: CastMesh.010
+  - m_Path: head/j_spine4/j_neck/j_head/bone_17e650ba
     m_Weight: 0
-  - m_Path: CastMesh.011
+  - m_Path: head/j_spine4/j_neck/j_head/bone_17e650ba/bone_17e650ba_end
     m_Weight: 0
-  - m_Path: CastMesh.012
+  - m_Path: head/j_spine4/j_neck/j_head/bone_e20fc863
     m_Weight: 0
-  - m_Path: CastMesh.013
+  - m_Path: head/j_spine4/j_neck/j_head/bone_e20fc863/bone_e20fc863_end
     m_Weight: 0
-  - m_Path: CastMesh.014
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_1
     m_Weight: 0
-  - m_Path: CastMesh.015
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_1/j_brow_le_1_end
     m_Weight: 0
-  - m_Path: CastMesh.016
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_2
     m_Weight: 0
-  - m_Path: CastMesh.017
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_2/j_brow_le_2_end
     m_Weight: 0
-  - m_Path: CastMesh.018
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_3
     m_Weight: 0
-  - m_Path: CastMesh.019
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_le_3/j_brow_le_3_end
     m_Weight: 0
-  - m_Path: CastMesh.020
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_1
     m_Weight: 0
-  - m_Path: CastMesh.021
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_1/j_brow_ri_1_end
     m_Weight: 0
-  - m_Path: CastMesh.022
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_2
     m_Weight: 0
-  - m_Path: CastMesh.023
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_2/j_brow_ri_2_end
     m_Weight: 0
-  - m_Path: CastMesh.024
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_3
     m_Weight: 0
-  - m_Path: CastMesh.025
+  - m_Path: head/j_spine4/j_neck/j_head/j_brow_ri_3/j_brow_ri_3_end
     m_Weight: 0
-  - m_Path: CastMesh.026
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_1
     m_Weight: 0
-  - m_Path: CastMesh.027
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_1/j_cheek_le_1_end
     m_Weight: 0
-  - m_Path: CastMesh.028
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_2
     m_Weight: 0
-  - m_Path: CastMesh.029
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_2/j_cheek_le_2_end
     m_Weight: 0
-  - m_Path: CastMesh.030
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_3
     m_Weight: 0
-  - m_Path: CastMesh.031
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_le_3/j_cheek_le_3_end
     m_Weight: 0
-  - m_Path: CastMesh.032
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le
     m_Weight: 0
-  - m_Path: CastMesh.033
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le/j_cheek_puff_le_end
     m_Weight: 0
-  - m_Path: CastMesh.034
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le_2
     m_Weight: 0
-  - m_Path: CastMesh.035
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le_2/j_cheek_puff_le_2_end
     m_Weight: 0
-  - m_Path: CastMesh.036
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le_3
     m_Weight: 0
-  - m_Path: CastMesh.037
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_le_3/j_cheek_puff_le_3_end
     m_Weight: 0
-  - m_Path: CastMesh.038
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri
     m_Weight: 0
-  - m_Path: CastMesh.039
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri/j_cheek_puff_ri_end
     m_Weight: 0
-  - m_Path: CastMesh.040
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri_2
     m_Weight: 0
-  - m_Path: CastMesh.041
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri_2/j_cheek_puff_ri_2_end
     m_Weight: 0
-  - m_Path: CastMesh.042
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri_3
     m_Weight: 0
-  - m_Path: CastMesh.043
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_puff_ri_3/j_cheek_puff_ri_3_end
     m_Weight: 0
-  - m_Path: CastMesh.044
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_1
     m_Weight: 0
-  - m_Path: CastMesh.045
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_1/j_cheek_ri_1_end
     m_Weight: 0
-  - m_Path: CastMesh.046
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_2
     m_Weight: 0
-  - m_Path: CastMesh.047
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_2/j_cheek_ri_2_end
     m_Weight: 0
-  - m_Path: CastMesh.048
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_3
     m_Weight: 0
-  - m_Path: CastMesh.049
+  - m_Path: head/j_spine4/j_neck/j_head/j_cheek_ri_3/j_cheek_ri_3_end
     m_Weight: 0
-  - m_Path: CastMesh.050
+  - m_Path: head/j_spine4/j_neck/j_head/j_chin
     m_Weight: 0
-  - m_Path: CastMesh.051
+  - m_Path: head/j_spine4/j_neck/j_head/j_chin/j_chin_end
     m_Weight: 0
-  - m_Path: CastMesh.052
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_001
     m_Weight: 0
-  - m_Path: head_c_jup_mp_alejandro
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_001/j_chinstrap_001_end
     m_Weight: 0
-  - m_Path: head_c_jup_mp_alejandro/j_spine4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_clavicle_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_clavicle_le/j_clavicle_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_clavicle_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_clavicle_ri/j_clavicle_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_8f025b39
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_8f025b39/bone_8f025b39_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_17e650ba
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_17e650ba/bone_17e650ba_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_e20fc863
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/bone_e20fc863/bone_e20fc863_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_1/j_brow_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_2/j_brow_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_le_3/j_brow_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_1/j_brow_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_2/j_brow_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_brow_ri_3/j_brow_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_1/j_cheek_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_2/j_cheek_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_le_3/j_cheek_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le/j_cheek_puff_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le_2/j_cheek_puff_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_le_3/j_cheek_puff_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri/j_cheek_puff_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri_2/j_cheek_puff_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_puff_ri_3/j_cheek_puff_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_1/j_cheek_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_2/j_cheek_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_cheek_ri_3/j_cheek_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chin
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chin/j_chin_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_001
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_001/j_chinstrap_001_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_002
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_002/j_chinstrap_002_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_003
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_chinstrap_003/j_chinstrap_003_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_bot_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_bot_le/j_eye_lid_bot_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_bot_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_bot_ri/j_eye_lid_bot_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_le_1/j_eye_lid_top_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_le_2/j_eye_lid_top_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_ri_1/j_eye_lid_top_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eye_lid_top_ri_2/j_eye_lid_top_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyeball_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyeball_le/j_eyeball_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyeball_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyeball_ri/j_eyeball_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_le_1/j_eyelash_bot_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_le_2/j_eyelash_bot_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_ri_1/j_eyelash_bot_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_bot_ri_2/j_eyelash_bot_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le/j_eyelash_top_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_1/j_eyelash_top_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_2/j_eyelash_top_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_4/j_eyelash_top_le_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_5
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_le_5/j_eyelash_top_le_5_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri/j_eyelash_top_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_1/j_eyelash_top_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_2/j_eyelash_top_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_4/j_eyelash_top_ri_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_5
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelash_top_ri_5/j_eyelash_top_ri_5_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelidbulge_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelidbulge_le/j_eyelidbulge_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelidbulge_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_eyelidbulge_ri/j_eyelidbulge_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead/j_forehead_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead_le_1/j_forehead_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_forehead_ri_1/j_forehead_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_furrow_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_furrow_le/j_furrow_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_furrow_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_furrow_ri/j_furrow_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/j_visor
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/j_visor/j_visor_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/j_visor_inner
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/j_visor_inner/j_visor_inner_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight/tag_helmetlight_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum/j_insidegum_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum_le_1/j_insidegum_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_insidegum_ri_1/j_insidegum_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw/j_jaw_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_1/j_jaw_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_2/j_jaw_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_le_3/j_jaw_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_1/j_jaw_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_2/j_jaw_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_jaw_ri_3/j_jaw_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_le_1/j_levator_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_le_2/j_levator_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_ri_1/j_levator_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_levator_ri_2/j_levator_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot/j_lip_bot_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_1/j_lip_bot_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_2/j_lip_bot_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_3/j_lip_bot_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_le_4/j_lip_bot_le_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_1/j_lip_bot_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_2/j_lip_bot_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_3/j_lip_bot_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_bot_ri_4/j_lip_bot_ri_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_inside_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_inside_le_1/j_lip_inside_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_inside_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_inside_ri_1/j_lip_inside_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top/j_lip_top_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_1/j_lip_top_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_2/j_lip_top_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_3/j_lip_top_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_le_4/j_lip_top_le_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_1/j_lip_top_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_2/j_lip_top_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_3/j_lip_top_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_lip_top_ri_4/j_lip_top_ri_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_mouthcorner_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_mouthcorner_le/j_mouthcorner_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_mouthcorner_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_mouthcorner_ri/j_mouthcorner_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_1/j_nasolabial_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_2/j_nasolabial_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_3/j_nasolabial_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_4/j_nasolabial_le_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_5
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_5/j_nasolabial_le_5_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_6
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_le_6/j_nasolabial_le_6_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_1/j_nasolabial_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_2/j_nasolabial_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_3/j_nasolabial_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_4/j_nasolabial_ri_4_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_5
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_5/j_nasolabial_ri_5_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_6
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nasolabial_ri_6/j_nasolabial_ri_6_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nose_tip
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_nose_tip/j_nose_tip_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_1/j_periorbital_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_2/j_periorbital_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_le_3/j_periorbital_le_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_1/j_periorbital_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_2/j_periorbital_ri_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_periorbital_ri_3/j_periorbital_ri_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_squint_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_squint_le_1/j_squint_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_squint_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_squint_ri_1/j_squint_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_temple_le
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_temple_le/j_temple_le_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_temple_ri
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_temple_ri/j_temple_ri_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_tongue_0
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2/j_tongue_3
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2/j_tongue_3/j_tongue_3_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_underchin
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_underchin/j_underchin_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_underlip
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_underlip/j_underlip_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperforehead_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperforehead_le_1/j_upperforehead_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperforehead_ri_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperforehead_ri_1/j_upperforehead_ri_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_uppergum
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_uppergum/j_uppergum_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperlip
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/j_upperlip/j_upperlip_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/tag_eye
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_head/tag_eye/tag_eye_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_ct_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_ct_1/j_neck_ct_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_le_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_le_1/j_neck_le_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_le_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_le_2/j_neck_le_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_rt_1
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_rt_1/j_neck_rt_1_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_rt_2
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_neck/j_neck_rt_2/j_neck_rt_2_end
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_proc_spine4
-    m_Weight: 1
-  - m_Path: head_c_jup_mp_alejandro/j_spine4/j_proc_spine4/j_proc_spine4_end
-    m_Weight: 1
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_002
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_002/j_chinstrap_002_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_003
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_chinstrap_003/j_chinstrap_003_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_bot_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_bot_le/j_eye_lid_bot_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_bot_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_bot_ri/j_eye_lid_bot_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_le_1/j_eye_lid_top_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_le_2/j_eye_lid_top_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_ri_1/j_eye_lid_top_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eye_lid_top_ri_2/j_eye_lid_top_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyeball_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyeball_le/j_eyeball_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyeball_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyeball_ri/j_eyeball_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_le_1/j_eyelash_bot_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_le_2/j_eyelash_bot_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_ri_1/j_eyelash_bot_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_bot_ri_2/j_eyelash_bot_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le/j_eyelash_top_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_1/j_eyelash_top_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_2/j_eyelash_top_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_4/j_eyelash_top_le_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_5
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_le_5/j_eyelash_top_le_5_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri/j_eyelash_top_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_1/j_eyelash_top_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_2/j_eyelash_top_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_4/j_eyelash_top_ri_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_5
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelash_top_ri_5/j_eyelash_top_ri_5_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelidbulge_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelidbulge_le/j_eyelidbulge_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelidbulge_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_eyelidbulge_ri/j_eyelidbulge_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead/j_forehead_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead_le_1/j_forehead_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_forehead_ri_1/j_forehead_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_furrow_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_furrow_le/j_furrow_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_furrow_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_furrow_ri/j_furrow_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/j_visor
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/j_visor/j_visor_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/j_visor_inner
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/j_visor_inner/j_visor_inner_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_helmet/tag_helmetlight/tag_helmetlight_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum/j_insidegum_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum_le_1/j_insidegum_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_insidegum_ri_1/j_insidegum_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw/j_jaw_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_1/j_jaw_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_2/j_jaw_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_le_3/j_jaw_le_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_1/j_jaw_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_2/j_jaw_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_jaw_ri_3/j_jaw_ri_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_le_1/j_levator_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_le_2/j_levator_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_ri_1/j_levator_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_levator_ri_2/j_levator_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot/j_lip_bot_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_1/j_lip_bot_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_2/j_lip_bot_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_3/j_lip_bot_le_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_le_4/j_lip_bot_le_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_1/j_lip_bot_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_2/j_lip_bot_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_3/j_lip_bot_ri_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_bot_ri_4/j_lip_bot_ri_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_inside_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_inside_le_1/j_lip_inside_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_inside_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_inside_ri_1/j_lip_inside_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top/j_lip_top_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_1/j_lip_top_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_2/j_lip_top_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_3/j_lip_top_le_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_le_4/j_lip_top_le_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_1/j_lip_top_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_2/j_lip_top_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_3/j_lip_top_ri_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_lip_top_ri_4/j_lip_top_ri_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_mouthcorner_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_mouthcorner_le/j_mouthcorner_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_mouthcorner_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_mouthcorner_ri/j_mouthcorner_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_1/j_nasolabial_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_2/j_nasolabial_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_3/j_nasolabial_le_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_4/j_nasolabial_le_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_5
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_5/j_nasolabial_le_5_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_6
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_le_6/j_nasolabial_le_6_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_1/j_nasolabial_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_2/j_nasolabial_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_3/j_nasolabial_ri_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_4/j_nasolabial_ri_4_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_5
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_5/j_nasolabial_ri_5_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_6
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nasolabial_ri_6/j_nasolabial_ri_6_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nose_tip
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_nose_tip/j_nose_tip_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_1/j_periorbital_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_2/j_periorbital_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_le_3/j_periorbital_le_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_1/j_periorbital_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_2/j_periorbital_ri_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_periorbital_ri_3/j_periorbital_ri_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_squint_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_squint_le_1/j_squint_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_squint_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_squint_ri_1/j_squint_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_temple_le
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_temple_le/j_temple_le_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_temple_ri
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_temple_ri/j_temple_ri_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_tongue_0
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2/j_tongue_3
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_tongue_0/j_tongue_1/j_tongue_2/j_tongue_3/j_tongue_3_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_underchin
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_underchin/j_underchin_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_underlip
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_underlip/j_underlip_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperforehead_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperforehead_le_1/j_upperforehead_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperforehead_ri_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperforehead_ri_1/j_upperforehead_ri_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_uppergum
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_uppergum/j_uppergum_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperlip
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/j_upperlip/j_upperlip_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/tag_eye
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_head/tag_eye/tag_eye_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_ct_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_ct_1/j_neck_ct_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_le_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_le_1/j_neck_le_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_le_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_le_2/j_neck_le_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_rt_1
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_rt_1/j_neck_rt_1_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_rt_2
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_neck/j_neck_rt_2/j_neck_rt_2_end
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_proc_spine4
+    m_Weight: 0
+  - m_Path: head/j_spine4/j_proc_spine4/j_proc_spine4_end
+    m_Weight: 0

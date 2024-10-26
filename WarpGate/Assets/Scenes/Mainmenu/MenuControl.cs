@@ -8,7 +8,6 @@ public class MenuControl : MonoBehaviour
     public GameObject UI;
     UIControl uic;
     GameObject[] uis;
-    public GameObject server;
     void Start()
     {
         uic = UI.GetComponent<UIControl>();
